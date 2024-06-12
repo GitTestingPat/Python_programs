@@ -31,8 +31,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes en 
 
 Instala las bibliotecas necesarias utilizando `pip`:
 
-### bash
-*pip3 install opencv-python requests numpy*
+
+### `bash`
+`*pip3 install opencv-python requests numpy*`
 
 # Proyecto de Detección de Rostros con OpenCV y DNN
 
