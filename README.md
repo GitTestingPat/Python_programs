@@ -10,9 +10,9 @@ This project uses the OpenCV library together with a pre-trained Deep Neural Net
 - Support for local and online images**: You can process locally stored images or download and process images from URLs.
 - Simple interface**: The code is easy to understand and modify, allowing it to be integrated into other projects.
 
-## Ventajas y Beneficios
+## Advantages and Benefits
 
-| Ventajas                      | Beneficios                                                   |
+| Advantages                    | Benefits                                                     |
 |-------------------------------|--------------------------------------------------------------|
 | Alta precisión                | Detección confiable de rostros en diversas condiciones       |
 | Utiliza modelos preentrenados | No se requiere entrenamiento adicional, listo para usar      |
