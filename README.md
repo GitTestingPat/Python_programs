@@ -25,7 +25,7 @@ Este proyecto utiliza la biblioteca OpenCV junto con un modelo de Red Neuronal P
 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes en tu sistema:
 
-- **Python 3.x**: Si no tienes Python instalado, puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+- **Python 3**: Si no tienes Python instalado, puedes descargarlo desde [python.org](https://www.python.org/downloads/).
 
 ### Instalación de Bibliotecas
 
