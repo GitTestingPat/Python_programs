@@ -1,14 +1,14 @@
-# Proyecto de Detección de Rostros con OpenCV y DNN
+## Face Detection Project with OpenCV and DNN
 
-## Descripción
+## Description
 
-Este proyecto utiliza la biblioteca OpenCV junto con un modelo de Red Neuronal Profunda (DNN) preentrenado para detectar rostros en imágenes. La detección de rostros es una tarea fundamental en muchas aplicaciones, como la seguridad, la fotografía y las redes sociales. Este programa permite detectar rostros de manera precisa y eficiente.
+This project uses the OpenCV library together with a pre-trained Deep Neural Network (DNN) model to detect faces in images. Face detection is a fundamental task in many applications such as security, photography and social networking. This software enables accurate and efficient face detection.
 
-## Funcionalidades
+## Features
 
-- **Detección precisa de rostros**: Utiliza un modelo DNN preentrenado para lograr una alta precisión en la detección de rostros.
-- **Soporte para imágenes locales y en línea**: Puede procesar imágenes almacenadas localmente o descargar y procesar imágenes desde URLs.
-- **Interfaz sencilla**: El código es fácil de entender y modificar, lo que permite su integración en otros proyectos.
+- Accurate face detection: Uses a pre-trained DNN model to achieve high accuracy in face detection.
+- Support for local and online images**: You can process locally stored images or download and process images from URLs.
+- Simple interface**: The code is easy to understand and modify, allowing it to be integrated into other projects.
 
 ## Ventajas y Beneficios
 
