@@ -47,7 +47,7 @@ Descarga los siguientes archivos y colócalos en el mismo directorio que tu scri
 
 ## Verificación de Archivos
 
-Asegúrate de que los archivos "deploy.prototxt" y "res10_300x300_ssd_iter_140000.caffemodel" están en el directorio correcto.
+Asegúrate de que los archivos "[deploy.prototxt](https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt)" y "[res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)" están en el directorio correcto.
 
 # bash
 ls -l
