@@ -14,58 +14,58 @@ This project uses the OpenCV library together with a pre-trained Deep Neural Net
 
 | Advantages                    | Benefits                                                     |
 |-------------------------------|--------------------------------------------------------------|
-| Alta precisión                | Detección confiable de rostros en diversas condiciones       |
-| Utiliza modelos preentrenados | No se requiere entrenamiento adicional, listo para usar      |
-| Soporte para múltiples fuentes| Procesa imágenes locales y en línea                          |
-| Fácil de usar                 | Código claro y bien documentado para fácil integración       |
+| High accuracy                 | Reliable face detection in various conditions                |
+| Uses pre-trained models       | No additional training required, ready to use                |
+| Support for multiple sources  | Processes images locally and online                          |
+| Fácil de usar                 | Clear and well-documented code for easy integration          |
 
-## Instalación
+## Installation
 
-### Requisitos Previos
+### Prerequisites
 
-Antes de comenzar, asegúrate de tener instalados los siguientes componentes en tu sistema:
+Before you start, make sure you have the following components installed on your system:
 
-- **Python 3**: Si no tienes Python instalado, puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+- **Python 3**: If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
 
-### Instalación de Bibliotecas
+### Installing Libraries
 
-Instala las bibliotecas necesarias utilizando `pip`:
+Install the necessary libraries using `pip`:
 
 
 ### `bash`
 `*pip3 install opencv-python requests numpy*`
 
-# Proyecto de Detección de Rostros con OpenCV y DNN
+## Face Detection Project with OpenCV and DNN
 
-## Descarga de Archivos del Modelo
+## Model File Download
 
-Descarga los siguientes archivos y colócalos en el mismo directorio que tu script de Python:
+Download the following files and place them in the same directory as your Python script:
 
-| Archivo                                  | Enlace de Descarga                                                                                   |
+| File                                     | Download link                                                                                        |
 |------------------------------------------|------------------------------------------------------------------------------------------------------|
 | deploy.prototxt                          | [deploy.prototxt](https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt)|
 | res10_300x300_ssd_iter_140000.caffemodel | [res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)|
 
-## Verificación de Archivos
+## File Verification
 
-Asegúrate de que los archivos "[deploy.prototxt](https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt)" y "[res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)" están en el directorio correcto.
+Make sure that the files "[deploy.prototxt](https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt)" y "[res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)" are in the correct directory.
 
 ### `bash`
 `*ls -l*`
 
-# Proyecto de Detección de Rostros con OpenCV y DNN
+## Face Detection Project with OpenCV and DNN
 
-## Uso del Programa
+## Use of the Program
 
-### Ejecución del Script
+### Running the Script
 
-Guarda el código en un archivo llamado "face_detector.py" y ejecuta el script con el siguiente comando:
+Save the code in a file called "face_detector.py" and run the script with the following command:
 
 ### `bash`
 `*python3 face_detector.py*`
 
-# Proyecto de Detección de Rostros con OpenCV y DNN
+## Face Detection Project with OpenCV and DNN
 
-## Conclusión
+## Conclusion
 
-Este proyecto de detección de rostros es una excelente base para diversas aplicaciones que requieren la identificación de rostros. Gracias al uso de modelos DNN preentrenados y la flexibilidad de OpenCV, es posible obtener resultados precisos y eficientes de manera rápida y sencilla.
+This face detection project is an excellent basis for various applications that require face identification. Thanks to the use of pre-trained DNN models and the flexibility of OpenCV, accurate and efficient results can be obtained quickly and easily.
