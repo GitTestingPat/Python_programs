@@ -51,7 +51,7 @@ Download the following files and place them in the same directory as your Python
 Make sure that the files "[deploy.prototxt](https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt)" y "[res10_300x300_ssd_iter_140000.caffemodel](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel)" are in the correct directory.
 
 ### `bash`
-`*ls -l*`
+`ls -l`
 
 ## Face Detection Project with OpenCV and DNN
 
@@ -62,7 +62,7 @@ Make sure that the files "[deploy.prototxt](https://github.com/opencv/opencv/raw
 Save the code in a file called "face_detector.py" and run the script with the following command:
 
 ### `bash`
-`*python3 face_detector.py*`
+`python3 face_detector.py`
 
 ## Face Detection Project with OpenCV and DNN
 
