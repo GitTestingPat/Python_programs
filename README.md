@@ -33,7 +33,7 @@ Install the necessary libraries using `pip`:
 
 
 ### `bash`
-`*pip3 install opencv-python requests numpy*`
+*pip3 install opencv-python requests numpy*
 
 ## Face Detection Project with OpenCV and DNN
 
